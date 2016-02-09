@@ -12,6 +12,16 @@ The staging area allows you more precise control over what files are being commi
 the current commit that you have checked out, and the repository is your directory with the .git folder.
 
 
+
+
 How can you use the staging area to make sure you have one commit per logical change?
 
 The staging area can be used to only add changes that are logically related.
+
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be useful when trying to develop new features without breaking a currently working version of 
+your program.
