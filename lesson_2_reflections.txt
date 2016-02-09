@@ -41,3 +41,13 @@ lineage, so to speak.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is combining the updated code from branch 1 into branch2. Then, creating a new commit to combine the two. 
+
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is great when there are no conflicts. If automatic merging were to always occur no matter what,
+we would have scenarios where conflicts in code were just smashed together. This is why we merge manually whenever
+there is an opportunity for a conflict to arise. 
+
