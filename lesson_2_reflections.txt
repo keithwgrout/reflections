@@ -25,3 +25,12 @@ What are some situations when branches would be helpful in keeping your history 
 
 Branches would be useful when trying to develop new features without breaking a currently working version of 
 your program.
+
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help to visualize the branch structure by being able to see
+a commit's parent, and also where branches break off from their original 
+lineage, so to speak. 
