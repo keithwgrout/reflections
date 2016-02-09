@@ -34,3 +34,10 @@ How do the diagrams help you visualize the branch structure?
 The diagrams help to visualize the branch structure by being able to see
 a commit's parent, and also where branches break off from their original 
 lineage, so to speak. 
+
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is combining the updated code from branch 1 into branch2. Then, creating a new commit to combine the two. 
