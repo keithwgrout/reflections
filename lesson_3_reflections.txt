@@ -29,3 +29,11 @@ the same project from anywhere.
 
 A branch refers to a commit to a repo that is saved somewhere other than the master. This might be used 
 when implementing a new feature, or fixing a bug.
+
+
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Having the last known state of the remote stored locally allows you to work on the latest 
+version of a project while offline. 
