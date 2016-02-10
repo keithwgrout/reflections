@@ -13,3 +13,19 @@ You might make changes to your code locally that isn't ready to be public yet.
 Likewise, changes may have been made to a remote repository that aren't in sync 
 with the code that you're working on locally. For these reasons, you might want 
 to push and pull changes manually, rather than having Github automatically update.
+
+
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is copying a repo on Github, to another repo on Github. This is when you want to make changes to 
+an existing repo, without needing permission from the author to be a contributor.
+
+A clone is taking a repo and making a copy of it, usually from online to a local computer. This scenario
+works well when you want others to have access to your work, or you want access to collaborate on a project.
+Also, if you have more than one computer that you work from, cloning a project allows you to work on 
+the same project from anywhere.
+
+A branch refers to a commit to a repo that is saved somewhere other than the master. This might be used 
+when implementing a new feature, or fixing a bug.
